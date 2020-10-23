@@ -4,6 +4,12 @@
 
 I am a Javascript developer passionate about the code and ready to learn new stuff
 
+[![Linkedin Badge](https://img.shields.io/badge/-jlfcortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlfcortes/)](https://www.linkedin.com/in/jlfcortes/)
+
+[![Twitter Badge](https://img.shields.io/badge/-@lcortes_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lcortes_)](https://twitter.com/lcortes_)
+
+[![Gmail Badge](https://img.shields.io/badge/-jose@lcortes.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose@lcortes.net)](mailto:jose@lcortes.net)
+
 <br><br><br>
 
 ## Professional Skills
