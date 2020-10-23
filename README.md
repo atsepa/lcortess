@@ -10,8 +10,6 @@ I am a Javascript developer passionate about the code and ready to learn new stu
 
 [![Gmail Badge](https://img.shields.io/badge/-jose@lcortes.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose@lcortes.net)](mailto:jose@lcortes.net)
 
-<br><br><br>
-
 ## Professional Skills
 
 ### Frontend
